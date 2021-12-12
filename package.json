@@ -21,5 +21,8 @@
 		"express"
 	],
 	"license": "MIT",
-	"author": "Matyas Mihalyi"
+	"author": "Matyas Mihalyi",
+	"engines": {
+		"node": "14.17.0"
+	}
 }
